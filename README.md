@@ -1,9 +1,9 @@
 # 🚀 Get started with your journey into tech here !
 
-- [**Primitive Types**](primitive_types.md)
-- [**Arrays**](arrays.md)
-- [**Strings**](strings.md)
-- [**Linked lists**](linked_lists.md)
+- [**Primitive Types**](/primitive_types.md)
+- [**Arrays**](/arrays.md)
+- [**Strings**](/strings.md)
+- [**Linked lists**](/linked_lists.md)
 - [**Stacks**](stacks.md)
 - [**Queues**](queues.md)
 - [**Binary trees**](binary_trees.md)
