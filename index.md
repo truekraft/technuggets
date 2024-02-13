@@ -14,7 +14,7 @@
 - [**Binary Search Trees**](binary_search_trees.md)
 - [**Dynamic Programming**](dynamic_programming.md)
 - [**Disjoint Sets**](disjoint_sets.md)
-- [**Greedy Algorithms and variants**](greedy_algos.md)
+- [**Greedy Algorithms and variants**](greedy_algorithms.md)
 - [**Graphs**](graphs.md)
 - [**🧠 Bend your mind - I**](mind_bend_1.md)
 - [**🧠 Bend your mind - II**](mind_bend_2.md)
